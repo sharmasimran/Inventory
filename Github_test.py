@@ -1,7 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Wed Aug 26 16:52:21 2020
-"""
 
 #Inventory and warehouse management
 
